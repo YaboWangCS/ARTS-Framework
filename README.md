@@ -6,6 +6,10 @@
 
 **A Diagnostic Benchmark for Evaluating Pure LLM Reasoning Capabilities using Formal Verification (Z3) and Constraint-Based Synthesis.**
 
+Note on Project Status (March 2026):
+This repository contains the foundation of the ARTS framework (v1.0) developed during my Honours stage.
+
+Recent Update: The project has now evolved into ARTS 2.0, featuring a significantly expanded codebase (~60k LOC) and an integrated Z3-verified JIT compiler. A new manuscript detailing these advancements has been completed and is currently under submission for NeurIPS 2026. For the latest research findings, please refer to the latest PDF manuscript attached to my application.
 ---
 
 [![Watch the Demo](assets/demo_thumbnail.png)](https://youtu.be/Los9ZUekuf0)
