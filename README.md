@@ -1,6 +1,6 @@
 # ARTS-Framework
 
-[![Status](https://img.shields.io/badge/Status-NeurIPS_2026_Submission_(In_Prep)-important)](https://neurips.cc/)
+![Status](https://img.shields.io/badge/Status-Active_Research_(v2.0_in_prep)-blue)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://www.python.org/)
 [![Verification](https://img.shields.io/badge/Verification-Z3_SMT_Solver-green)](https://github.com/Z3Prover/z3)
 
